@@ -1,2 +1,3 @@
 # landpage
-<iframe src="jordanlimadev.netlify.app"></iframe>
+Visite: jordanlima.dev
+
